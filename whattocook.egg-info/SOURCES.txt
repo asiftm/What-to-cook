@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-whattocook/__init__.py
-whattocook/whattocook.py
-whattocook.egg-info/PKG-INFO
-whattocook.egg-info/SOURCES.txt
-whattocook.egg-info/dependency_links.txt
-whattocook.egg-info/top_level.txt
