@@ -1,5 +1,5 @@
 # What to cook
-This package provides recipe from 'Rwandan' cuisine.
+This package provides recipes from 'Rwandan' cuisine.
 
 It provides:
 
